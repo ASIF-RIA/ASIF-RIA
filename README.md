@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:181717&height=180&section=header&text=ASIF-RIA&fontSize=52&fontColor=ffffff" alt="header" />
 
-# Hi, I'm Asif
+# Hi, I'm Rakibul Islam Asif
 
-<b>Self-taught Research Enthusiast</b> | <b>Competitive Programmer</b> | <b>UG Student (Bangladesh)</b>
+<b>Self-taught Research Enthusiast</b> | <b>Competitive Programmer</b> |
 
 <a href="https://github.com/ASIF-RIA">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ASIF--RIA-181717?style=for-the-badge&logo=github" />

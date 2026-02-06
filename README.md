@@ -1,4 +1,4 @@
-﻿<!-- Profile README for ASIF-RIA -->
+
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:181717&height=180&section=header&text=ASIF-RIA&fontSize=52&fontColor=ffffff" alt="header" />
+
 
 
 

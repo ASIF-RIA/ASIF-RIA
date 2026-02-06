@@ -34,23 +34,22 @@
 - **I enjoy**: Competitive programming, clean code, learning by building
 - **Open to**: Collaborations on web/app projects and research-oriented prototypes
 
-## Research interests (edit this)
+## Research interests 
 
 - Machine learning / deep learning
 - Computer vision and image/video understanding
-- NLP (text understanding, sentiment analysis)
 - Security-minded software engineering
+- Post Quantum Cryptography for secure Healthcare data system
 
 ---
 
-## Tech stack (based on my public repos)
+## Tech stack 
 
 - **Languages**: JavaScript, Dart, HTML/CSS
 - **Frontend**: Flutter (Dart), Web UI
 - **Backend**: Node.js (APIs)
 - **Tools**: Git/GitHub
 
-> If you tell me your exact main stack (and your preferred design color), I can tune this perfectly.
 
 ---
 
@@ -80,17 +79,13 @@
 
 ## Connect
 
-- **GitHub**: [github.com/ASIF-RIA](https://github.com/ASIF-RIA)
 - **LinkedIn**: (add your link)
 - **Facebook**: (add your link)
 - **Email**: (optional)
 
 ---
 
-### Notes
 
-- This file must be in a repo named **ASIF-RIA/ASIF-RIA** to show on your GitHub profile.
-- You can replace the header with your own banner image later.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,100:0e75b6&height=120&section=footer" alt="footer" />
 
